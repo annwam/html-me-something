@@ -1,0 +1,29 @@
+p{
+    border: 2px outset black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    margin: 50px 50px;
+    padding: 20px 10px
+}
+
+body{
+    margin: 50px;
+    background-color: rgb(236, 174, 174);
+    text-align: center;
+}
+h2{
+    font-style: italic;
+    font-size: 24px; 
+}
+footer{
+    font-style: italic;
+    text-align: left;
+    border: none;
+}
+p.inset{
+    border: 2px inset black;
+    font-size: 18px;
+}
+#larger{
+    color: aliceblue;
+}
